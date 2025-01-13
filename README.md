@@ -1,4 +1,4 @@
-# PyGame-Space-Simulation
+# PyGame-Planet-Simulation
 Practicing to build a simple solar system simulation using PyGame
 commented out the steps in code
 
